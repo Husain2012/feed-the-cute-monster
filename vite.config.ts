@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: './', // أضف هذا السطر هنا لحل مشكلة الشاشة البيضاء على GitHub Pages
     plugins: [
       react(),
       tailwindcss(),
