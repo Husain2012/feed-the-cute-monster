@@ -10,7 +10,7 @@ export default defineConfig(() => {
     plugins: [
       react(),
       tailwindcss(),
-      {
+      // ... باقي الكود كما هو
         name: 'copy-unbundled-src-assets',
         apply: 'build',
         closeBundle(error?: Error): void {
