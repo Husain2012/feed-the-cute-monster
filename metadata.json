@@ -1,0 +1,6 @@
+{
+  "name": "Feed the Cute Monster — أكل الكائنات اللطيفة",
+  "description": "لعبة أطفال تفاعلية ومبهجة لإطعام الوحش النعناعي اللطيف، مع تحميل ونسخ كود اللعبة في ملف HTML واحد مستقل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
